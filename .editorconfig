@@ -1,0 +1,12 @@
+# editorconfig.org
+root=true
+
+[*]
+indent_style = tabs
+indent_size = 2
+end_of_line = 1f
+charset = utf-8
+trim_trailing_whitespace = true
+
+[* .md]
+trim_trailing_whitespace = false
