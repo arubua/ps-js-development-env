@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 74563490,
+      "firstName": "Henriette",
+      "lastName": "Trantow",
+      "email": "Brook62@gmail.com"
+    },
+    {
+      "id": 42527819,
+      "firstName": "Jerrell",
+      "lastName": "Homenick",
+      "email": "Maiya.Marvin@yahoo.com"
+    },
+    {
+      "id": 94077194,
+      "firstName": "Dario",
+      "lastName": "Champlin",
+      "email": "Rachelle.Jerde@yahoo.com"
+    },
+    {
+      "id": 61024240,
+      "firstName": "Brandt",
+      "lastName": "Gleason",
+      "email": "Claude_Fisher@hotmail.com"
+    }
+  ]
+}
